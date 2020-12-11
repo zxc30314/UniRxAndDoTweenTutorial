@@ -2,7 +2,7 @@
 using UniRx.Triggers;
 using UnityEngine;
 
-public class ObservableStateMachineTriggerTutoril : MonoBehaviour
+public class ObservableStateMachineTriggerTutorial : MonoBehaviour
 {
     [SerializeField] private Animator animator;
     private ObservableStateMachineTrigger[] observableStateMachineTriggers;
