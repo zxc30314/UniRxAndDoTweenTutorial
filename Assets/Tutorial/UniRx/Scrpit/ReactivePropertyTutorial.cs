@@ -21,7 +21,7 @@ namespace UniRx.Tutorial
             rank.Value = 5;
             rank.SetValueAndForceNotify(5);
 
-            //Log: 0 1 2 5 25
+            //Log: 0 1 2 5 5
         }
 
         private void UpdateRank(int obj)
